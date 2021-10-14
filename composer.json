@@ -1,11 +1,11 @@
 {
-    "name": "wwww11001\/laravel-feishu-logging",
+    "name": "wwww110011\/laravel-feishu-logging",
     "description": "Send logs to Feishu group via Feishu Custom bot",
     "license": "MIT",
     "authors": [
         {
-            "name": "wwww11001",
-            "email": "wwww11001@qq.com"
+            "name": "wwww110011",
+            "email": "wwww110011@qq.com"
         }
     ],
     "require": {
@@ -17,13 +17,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Wwww11001\\LaravelFeishuLogging\\": "src"
+            "Wwww110011\\LaravelFeishuLogging\\": "src"
         }
     },
     "extra": {
         "laravel": {
           "providers": [
-            "Wwww11001\\LaravelFeishuLogging\\FeishuLoggerServiceProvider"
+            "Wwww110011\\LaravelFeishuLogging\\FeishuLoggerServiceProvider"
           ]
         }
     }

@@ -1,9 +1,9 @@
 <?php
 
 /*
- * This file is part of the wwww11001/laravel-feishu-logging.
+ * This file is part of the wwww110011/laravel-feishu-logging.
  *
- * (c) wwww11001 <wwww11001@qq.com>
+ * (c) wwww110011 <wwww110011@qq.com>
  *
  * This source file is subject to the MIT license that is bundled.
  */
