@@ -1,14 +1,14 @@
 <?php
 
 /*
- * This file is part of the nilsir/laravel-feishu-logging.
+ * This file is part of the wwww11001/laravel-feishu-logging.
  *
- * (c) nilsir <nilsir@qq.com>
+ * (c) wwww11001 <wwww11001@qq.com>
  *
  * This source file is subject to the MIT license that is bundled.
  */
 
-namespace Nilsir\LaravelFeishuLogging;
+namespace Wwww11001\LaravelFeishuLogging;
 
 use Monolog\Formatter\NormalizerFormatter;
 use Monolog\Logger;
